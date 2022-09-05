@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fimigaf&label=Profile%20views&color=0e75b6&style=flat" alt="fimigaf" /> </p>
 
-- 🔭 I’m currently working on **Sing up/ Login**
+- 🔭 I’m currently working on **Sign up/ Login**
 
 - 🌱 I’m currently learning **Angular, React**
 
